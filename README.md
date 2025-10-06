@@ -49,6 +49,15 @@ It’s designed to perform both **data manipulation (DML)** and **data definitio
 
 ---
 
+## 📂 Database Tables
+
+All tables used in this project are available as CSV files inside the `tables.zip` file.  
+After downloading, extract the zip to access individual CSV files for analysis.
+
+- (Tables.zip)
+
+---
+
 ## ⚙️ Setup Instructions
 
 1. **Install PostgreSQL (v17 or higher)**  
