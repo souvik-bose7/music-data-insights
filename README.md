@@ -58,6 +58,15 @@ After downloading, extract the zip to access individual CSV files for analysis.
 
 ---
 
+## 🗺️ Database Schema
+
+The database schema diagrams showing table relationships are included in the `schema_screenshots.zip` file.  
+After downloading, extract the zip to view the diagrams.
+
+- (schema_diagram.zip)
+
+---
+
 ## ⚙️ Setup Instructions
 
 1. **Install PostgreSQL (v17 or higher)**  
